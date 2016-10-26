@@ -49,13 +49,21 @@
             <p class="event listening">Connecting to Device</p>
             <p class="event received">Device is Ready</p>
             <br>
-            <a href="FichasHome/">FichasHome</a>
-            <a href="PradoTXL/">PradoTXL</a>
-            <a href="FJCruiser/">FJCruiser</a>
-            <a href="pruebas/">Pruebas HTML normal</a>
+            <a data-rel="external" href="FichasHome/">FichasHome</a><br><br>
+            <a data-rel="external" href="PradoTXL/">PradoTXL</a><br><br>
+            <a data-rel="external" href="FJCruiser/">FJCruiser</a><br><br>
+            <a data-rel="external" href="pruebas/">Pruebas HTML normal</a><br><br>
+            
+            <a onClick="javascript:linkotro()" target="_self">PradoTXL Otro link</a><br><br>
    
         </div>
     </div>
+    
+    <script type="text/javascript">
+	function linkotro(){window.open("PradoTXL/index.html", "_system");}
+	
+	</script>
+    
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
     <script type="text/javascript">
