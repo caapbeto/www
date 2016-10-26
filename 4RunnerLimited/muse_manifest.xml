@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476983271302">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="363130012" ref="index"/>
+    <file name="index.css" crc="4290170452" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="runner-limit-home.jpg" crc="3864483243" seo="true" ref="index"/>
+    <file name="runner-limit.svg" crc="4215872934" seo="true" ref="index"/>
+    <file name="runner-limit_poster_.png" crc="3878865486" ref="index"/>
+    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
+    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="runner-limit-col-blanco-home.png" crc="3966647711" seo="true" ref="index"/>
+    <file name="runner-limit-txt.svg" crc="236127602" seo="true" ref="index"/>
+    <file name="runner-limit-txt_poster_.png" crc="31150283" ref="index"/>
+    <file name="runner-limit-colores.svg" crc="24649352" seo="true" ref="index"/>
+    <file name="runner-limit-colores_poster_.png" crc="207654478" ref="index"/>
+    <file name="runner-limit-col-blanco.png" crc="176513077" seo="true" ref="index"/>
+    <file name="runner-limit-col-blanco-txt.svg" crc="417138859" seo="true" ref="index"/>
+    <file name="runner-limit-col-blanco-txt_poster_.png" crc="59263537" ref="index"/>
+    <file name="runner-limit-col-negro.png" crc="498205681" seo="true" ref="index"/>
+    <file name="runner-limit-col-negro-txt.svg" crc="372836799" seo="true" ref="index"/>
+    <file name="runner-limit-col-negro-txt_poster_.png" crc="305559426" ref="index"/>
+    <file name="runner-limit-col-plata.png" crc="4041226273" seo="true" ref="index"/>
+    <file name="runner-limit-col-plata-txt.svg" crc="3890460330" seo="true" ref="index"/>
+    <file name="runner-limit-col-plata-txt_poster_.png" crc="3984705672" ref="index"/>
+    <file name="runner-limit-col-gris.png" crc="67488901" seo="true" ref="index"/>
+    <file name="runner-limit-col-gris-txt.svg" crc="361231681" seo="true" ref="index"/>
+    <file name="runner-limit-col-gris-txt_poster_.png" crc="3845631738" ref="index"/>
+    <file name="runner-limit-col-rojo.png" crc="1858528" seo="true" ref="index"/>
+    <file name="runner-limit-col-rojo-txt.svg" crc="4135647441" seo="true" ref="index"/>
+    <file name="runner-limit-col-rojo-txt_poster_.png" crc="253246308" ref="index"/>
+    <file name="runner-limit-col-azul.png" crc="204771171" seo="true" ref="index"/>
+    <file name="runner-limit-col-azul-txt.svg" crc="448167740" seo="true" ref="index"/>
+    <file name="runner-limit-col-azul-txt_poster_.png" crc="119880390" ref="index"/>
+    <file name="runner-limited-01.jpg" crc="3905930513" seo="true" ref="index"/>
+    <file name="runner-limited-02.jpg" crc="4201578984" seo="true" ref="index"/>
+    <file name="runner-limited-03.jpg" crc="40591230" seo="true" ref="index"/>
+    <file name="runner-limited-04.jpg" crc="4013600987" seo="true" ref="index"/>
+    <file name="runner-limited-05.jpg" crc="3835511268" seo="true" ref="index"/>
+    <file name="runner-limited-06.jpg" crc="279489017" seo="true" ref="index"/>
+    <file name="botmotor1.jpg" crc="3782786412" ref="index"/>
+    <file name="botmotor2.jpg" crc="3779391998" ref="index"/>
+    <file name="bottransm1.jpg" crc="334004082" ref="index"/>
+    <file name="bottransm2.jpg" crc="284900123" ref="index"/>
+    <file name="botdirr1.jpg" crc="3888985139" ref="index"/>
+    <file name="botdirr2.jpg" crc="3793240513" ref="index"/>
+    <file name="botseg1.jpg" crc="290607089" ref="index"/>
+    <file name="botseg2.jpg" crc="394052482" ref="index"/>
+    <file name="botcap1.jpg" crc="182661038" ref="index"/>
+    <file name="botcap2.jpg" crc="3770729754" ref="index"/>
+    <file name="botequip1.jpg" crc="43532355" ref="index"/>
+    <file name="botequip2.jpg" crc="3814601790" ref="index"/>
+    <file name="pata-toyota.svg" crc="165850192" seo="true" ref="index"/>
+    <file name="pata toyota_poster_.png" crc="4282732741" ref="index"/>
+    <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
+    <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="456194281" seo="true" mt="1476977316843" redirect="true"/>
+</manifest>

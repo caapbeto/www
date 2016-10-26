@@ -48,23 +48,18 @@
         <div id="deviceready" class="blink">
             <p class="event listening">Connecting to Device</p>
             <p class="event received">Device is Ready</p>
-            <br>
-            <a data-rel="external" target="_blank" href="FichasHome/">FichasHome</a><br><br>
-            <a data-rel="external" target="_self" href="PradoTXL/">PradoTXL</a><br><br>
-            <a data-rel="external" target="_top" href="FJCruiser/">FJCruiser</a><br><br>
-            <a data-rel="external" target="new" href="pruebas/">Pruebas HTML normal</a><br><br>
-            <a data-rel="external" target="_parent" href="pruebas/">Pruebas HTML Parent</a><br><br>
             
-            <a onClick="javascript:linkotro()" target="_self">PradoTXL Otro link</a><br><br>
+            <a onClick="javascript:linkotro('PradoTXL')" target="_self">PradoTXL</a><br><br>
+            <a onClick="javascript:linkotro('FJCruiser')" target="_self">FJCruiser</a><br><br>
+            <a onClick="javascript:linkotro('4RunnerLimited')" target="_self">4RunnerLimited</a><br><br>
+            <a onClick="javascript:linkotro('4RunnerSR5')" target="_self">4RunnerSR5</a><br><br>
    
         </div>
     </div>
     
     <script type="text/javascript">
-	function linkotro(){
-		//window.open("PradoTXL/index.html", "_system");
-		alert('antes');
-		location.href = 'PradoTXL/index.html'; 
+	function linkotro(linkva){
+		location.href = ''+linkva+'/index.html'; 
 	}
 	
 	</script>
