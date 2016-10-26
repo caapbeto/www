@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476983558642">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="363130012" ref="index"/>
+    <file name="index.css" crc="4171999949" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fjcruiser-home.jpg" crc="4293557542" seo="true" ref="index"/>
+    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
+    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="fjcruiser-col-blanco-home.png" crc="195199392" seo="true" ref="index"/>
+    <file name="fjcruiser-txt.svg" crc="87672245" seo="true" ref="index"/>
+    <file name="fjcruiser-txt_poster_.png" crc="199040690" ref="index"/>
+    <file name="fj-colores.svg" crc="34389103" seo="true" ref="index"/>
+    <file name="fj-colores_poster_.png" crc="515682019" ref="index"/>
+    <file name="fjcruiser-col-blanco.png" crc="3964016346" seo="true" ref="index"/>
+    <file name="fjcruiser-col-blanco-txt.svg" crc="134928191" seo="true" ref="index"/>
+    <file name="fjcruiser-col-blanco-txt_poster_.png" crc="3978938521" ref="index"/>
+    <file name="fjcruiser-col-negro.png" crc="3989082499" seo="true" ref="index"/>
+    <file name="fjcruiser-col-negro-txt.svg" crc="99974598" seo="true" ref="index"/>
+    <file name="fjcruiser-col-negro-txt_poster_.png" crc="325846062" ref="index"/>
+    <file name="fjcruiser-col-gris.png" crc="4102631072" seo="true" ref="index"/>
+    <file name="fjcruiser-col-gris-txt.svg" crc="4272536370" seo="true" ref="index"/>
+    <file name="fjcruiser-col-gris-txt_poster_.png" crc="3797028308" ref="index"/>
+    <file name="fjcruiser-col-amarillo.png" crc="77700381" seo="true" ref="index"/>
+    <file name="fjcruiser-col-amarillo-txt.svg" crc="4146689504" seo="true" ref="index"/>
+    <file name="fjcruiser-col-amarillo-txt_poster_.png" crc="4209613672" ref="index"/>
+    <file name="fjcruiser-col-rojo.png" crc="3921620321" seo="true" ref="index"/>
+    <file name="fjcruiser-col-rojo-txt.svg" crc="442012759" seo="true" ref="index"/>
+    <file name="fjcruiser-col-rojo-txt_poster_.png" crc="4128880508" ref="index"/>
+    <file name="fjcruiser-col-azul.png" crc="3871841062" seo="true" ref="index"/>
+    <file name="fjcruiser-col-azul-txt.svg" crc="227132174" seo="true" ref="index"/>
+    <file name="fjcruiser-col-azul-txt_poster_.png" crc="4146997627" ref="index"/>
+    <file name="runner-sr5-col-beige-txt.svg" crc="4225458268" seo="true" ref="index"/>
+    <file name="runner-sr5-col-beige-txt_poster_.png" crc="316116992" ref="index"/>
+    <file name="fjcruiser-01.jpg" crc="4241249494" seo="true" ref="index"/>
+    <file name="fjcruiser-02.jpg" crc="4051883787" seo="true" ref="index"/>
+    <file name="fjcruiser-03.jpg" crc="142586685" seo="true" ref="index"/>
+    <file name="fjcruiser-04.jpg" crc="3984315249" seo="true" ref="index"/>
+    <file name="fjcruiser-05.jpg" crc="23699266" seo="true" ref="index"/>
+    <file name="fjcruiser-06.jpg" crc="3887574992" seo="true" ref="index"/>
+    <file name="botmotor1.jpg" crc="3782786412" ref="index"/>
+    <file name="botmotor2.jpg" crc="3779391998" ref="index"/>
+    <file name="bottransm1.jpg" crc="334004082" ref="index"/>
+    <file name="bottransm2.jpg" crc="284900123" ref="index"/>
+    <file name="botdirr1.jpg" crc="3888985139" ref="index"/>
+    <file name="botdirr2.jpg" crc="3793240513" ref="index"/>
+    <file name="botseg1.jpg" crc="290607089" ref="index"/>
+    <file name="botseg2.jpg" crc="394052482" ref="index"/>
+    <file name="botcap1.jpg" crc="182661038" ref="index"/>
+    <file name="botcap2.jpg" crc="3770729754" ref="index"/>
+    <file name="botequip1.jpg" crc="43532355" ref="index"/>
+    <file name="botequip2.jpg" crc="3814601790" ref="index"/>
+    <file name="pata-toyota.svg" crc="165850192" seo="true" ref="index"/>
+    <file name="pata toyota_poster_.png" crc="4282732741" ref="index"/>
+    <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
+    <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3852405682" seo="true" mt="1476978899315" redirect="true"/>
+</manifest>
