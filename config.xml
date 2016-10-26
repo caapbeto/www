@@ -8,9 +8,9 @@
         PhoneGap Team
     </author>
     <!--<content src="index.html" />-->
-    <content src="FichasHome/index.html" />
-    <!--<preference name="DisallowOverscroll" value="true" />
-	<preference name="Fullscreen" value="true" />-->
+    <content src="PradoTXL/index.html" />
+    <!--<preference name="DisallowOverscroll" value="true" />-->
+	<preference name="Fullscreen" value="true" />
 	<preference name="Orientation" value="landscape" />
     <preference name="android-minSdkVersion" value="14" />
     <!--<plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
