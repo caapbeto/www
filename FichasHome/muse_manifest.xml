@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476986327048">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="17024502" ref="index"/>
+    <file name="index.css" crc="384869482" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
+    <file name="marcas-home.svg" crc="511997130" seo="true" ref="index"/>
+    <file name="marcas-home_poster_.png" crc="58014588" ref="index"/>
+    <file name="pata-toyota.svg" crc="165850192" seo="true" ref="index"/>
+    <file name="pata toyota_poster_.png" crc="4282732741" ref="index"/>
+    <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="313245579" seo="true" mt="1476986268851" redirect="true"/>
+</manifest>

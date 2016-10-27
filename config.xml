@@ -7,7 +7,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
-    <content src="index.html" />
+    <content src="FichasHome/index.html" />
     <!--<preference name="DisallowOverscroll" value="true" />-->
 	<preference name="Fullscreen" value="true" />
 	<preference name="Orientation" value="landscape" />

@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476984099074">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="363130012" ref="index"/>
+    <file name="index.css" crc="347994813" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="rav4-street.jpg" crc="3759223115" seo="true" ref="index"/>
+    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
+    <file name="rav4-col-rojo-home.png" crc="275111328" seo="true" ref="index"/>
+    <file name="rav4-xroad-version.svg" crc="4151048604" seo="true" ref="index"/>
+    <file name="rav4-xroad-version_poster_.png" crc="4024992289" ref="index"/>
+    <file name="rav4-street.svg" crc="68272019" seo="true" ref="index"/>
+    <file name="rav4-street_poster_.png" crc="167057722" ref="index"/>
+    <file name="rav4-colores.svg" crc="4188458115" seo="true" ref="index"/>
+    <file name="rav4-colores_poster_.png" crc="353426833" ref="index"/>
+    <file name="rav4-col-negro.png" crc="282633099" seo="true" ref="index"/>
+    <file name="fortuner-col-negro-txt.svg" crc="4038702485" seo="true" ref="index"/>
+    <file name="fortuner-col-negro-txt_poster_.png" crc="321033059" ref="index"/>
+    <file name="rav4-col-plata.png" crc="4114612882" seo="true" ref="index"/>
+    <file name="fortuner-col-plata-txt.svg" crc="147718100" seo="true" ref="index"/>
+    <file name="fortuner-col-plata-txt_poster_.png" crc="4294718226" ref="index"/>
+    <file name="rav4-col-gris.png" crc="3820456032" seo="true" ref="index"/>
+    <file name="fortuner-col-gris-txt.svg" crc="4248349471" seo="true" ref="index"/>
+    <file name="fortuner-col-gris-txt_poster_.png" crc="147112648" ref="index"/>
+    <file name="rav4-col-azul.png" crc="3913180395" seo="true" ref="index"/>
+    <file name="rav4-col-azul-txt.svg" crc="3923184229" seo="true" ref="index"/>
+    <file name="rav4-col-azul-txt_poster_.png" crc="3859465032" ref="index"/>
+    <file name="rav4-col-naranja.png" crc="4244231245" seo="true" ref="index"/>
+    <file name="rav4-col-naranja-txt.svg" crc="27941470" seo="true" ref="index"/>
+    <file name="rav4-col-naranja-txt_poster_.png" crc="4021028076" ref="index"/>
+    <file name="rav4-col-rojo.png" crc="377052711" seo="true" ref="index"/>
+    <file name="rav4-col-rojo-txt.svg" crc="3939024178" seo="true" ref="index"/>
+    <file name="rav4-col-rojo-txt_poster_.png" crc="4252492891" ref="index"/>
+    <file name="rav4-col-blanco.png" crc="98182252" seo="true" ref="index"/>
+    <file name="runner-limit-col-blanco-txt.svg" crc="417138859" seo="true" ref="index"/>
+    <file name="runner-limit-col-blanco-txt_poster_.png" crc="4258793586" ref="index"/>
+    <file name="rav4-col-superblanco.png" crc="3804339245" seo="true" ref="index"/>
+    <file name="prado-col-superblanco-txt.svg" crc="401403826" seo="true" ref="index"/>
+    <file name="prado-col-superblanco-txt_poster_.png" crc="4073978313" ref="index"/>
+    <file name="rav4-col-bronce.png" crc="3868502320" seo="true" ref="index"/>
+    <file name="prado-col-bronce-txt.svg" crc="23675230" seo="true" ref="index"/>
+    <file name="prado-col-bronce-txt_poster_.png" crc="3815334585" ref="index"/>
+    <file name="rav4-xroad-01.jpg" crc="3969177807" seo="true" ref="index"/>
+    <file name="rav4-xroad-02.jpg" crc="466564224" seo="true" ref="index"/>
+    <file name="rav4-xroad-03.jpg" crc="217740122" seo="true" ref="index"/>
+    <file name="rav4-xroad-04.jpg" crc="106209076" seo="true" ref="index"/>
+    <file name="rav4-xroad-05.jpg" crc="188814412" seo="true" ref="index"/>
+    <file name="rav4-xroad-06.jpg" crc="3791062970" seo="true" ref="index"/>
+    <file name="botmotor1.jpg" crc="3782786412" ref="index"/>
+    <file name="botmotor2.jpg" crc="3779391998" ref="index"/>
+    <file name="botdirr1.jpg" crc="3888985139" ref="index"/>
+    <file name="botdirr2.jpg" crc="3793240513" ref="index"/>
+    <file name="botseg1.jpg" crc="290607089" ref="index"/>
+    <file name="botseg2.jpg" crc="394052482" ref="index"/>
+    <file name="botcap1.jpg" crc="182661038" ref="index"/>
+    <file name="botcap2.jpg" crc="3770729754" ref="index"/>
+    <file name="botequip1.jpg" crc="43532355" ref="index"/>
+    <file name="botequip2.jpg" crc="3814601790" ref="index"/>
+    <file name="botequip1a.jpg" crc="514382037" ref="index"/>
+    <file name="botequip2a.jpg" crc="3836553050" ref="index"/>
+    <file name="pata-toyota.svg" crc="165850192" seo="true" ref="index"/>
+    <file name="pata toyota_poster_.png" crc="4282732741" ref="index"/>
+    <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
+    <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3953828541" seo="true" mt="1476982916894" redirect="true"/>
+</manifest>
