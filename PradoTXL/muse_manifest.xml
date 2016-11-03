@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476983987527">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1478134351300">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="363130012" ref="index"/>
-    <file name="index.css" crc="4108641222" ref="index"/>
+    <file name="index.css" crc="3925979948" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -19,13 +19,15 @@
   </folder>
   <folder name="images">
     <file name="prado-home.jpg" crc="186271821" seo="true" ref="index"/>
-    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
-    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="botonbrilloespecif3.gif" crc="4080693175" ref="index"/>
+    <file name="botonbrillocolor3.gif" crc="227664084" ref="index"/>
     <file name="prado-col-bronce-home.png" crc="3816594668" seo="true" ref="index"/>
     <file name="prado-version.svg" crc="4033549838" seo="true" ref="index"/>
     <file name="prado-version_poster_.png" crc="514949654" ref="index"/>
     <file name="prado-txt.svg" crc="225850490" seo="true" ref="index"/>
     <file name="prado-txt_poster_.png" crc="488260201" ref="index"/>
+    <file name="legal1.svg" crc="3773719722" seo="true" ref="index"/>
+    <file name="legal1_poster_.png" crc="91579411" ref="index"/>
     <file name="prado-colores.svg" crc="124904151" seo="true" ref="index"/>
     <file name="prado-colores_poster_.png" crc="3863235046" ref="index"/>
     <file name="prado-col-negromica.png" crc="4061619653" seo="true" ref="index"/>
@@ -58,6 +60,8 @@
     <file name="prado-col-verde.png" crc="286193594" seo="true" ref="index"/>
     <file name="prado-col-verde-txt.svg" crc="4214000661" seo="true" ref="index"/>
     <file name="prado-col-verde-txt_poster_.png" crc="3791883208" ref="index"/>
+    <file name="legal2.svg" crc="3827672483" seo="true" ref="index"/>
+    <file name="legal2_poster_.png" crc="198265207" ref="index"/>
     <file name="prado-motor.png" crc="330787514" seo="true" ref="index"/>
     <file name="prado-transmision.png" crc="4064052006" seo="true" ref="index"/>
     <file name="prado-direccion.png" crc="77564113" seo="true" ref="index"/>
@@ -81,5 +85,5 @@
     <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
     <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="241453048" seo="true" mt="1476981243466" redirect="true"/>
+  <file name="index.html" crc="103389317" seo="true" mt="1478134332811" redirect="true"/>
 </manifest>

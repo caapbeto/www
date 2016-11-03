@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476983881900">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1478134199923">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="363130012" ref="index"/>
-    <file name="index.css" crc="3777541408" ref="index"/>
+    <file name="index.css" crc="3949271855" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -19,13 +19,15 @@
   </folder>
   <folder name="images">
     <file name="hiluxtn-home.jpg" crc="308081875" seo="true" ref="index"/>
-    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
-    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="botonbrilloespecif3.gif" crc="4080693175" ref="index"/>
+    <file name="botonbrillocolor3.gif" crc="227664084" ref="index"/>
     <file name="hiluxtn-col-plata-home.png" crc="302136386" seo="true" ref="index"/>
     <file name="hiluxtn-version.svg" crc="24990585" seo="true" ref="index"/>
     <file name="hiluxtn-version_poster_.png" crc="367319752" ref="index"/>
     <file name="hiluxtc-txt.svg" crc="54048739" seo="true" ref="index"/>
     <file name="hiluxtc-txt_poster_.png" crc="4106913795" ref="index"/>
+    <file name="legal1.svg" crc="3773719722" seo="true" ref="index"/>
+    <file name="legal1_poster_.png" crc="91579411" ref="index"/>
     <file name="hilux-colores.svg" crc="3777582523" seo="true" ref="index"/>
     <file name="hilux-colores_poster_.png" crc="3896839975" ref="index"/>
     <file name="hiluxtn-col-blanco.png" crc="298207698" seo="true" ref="index"/>
@@ -46,6 +48,8 @@
     <file name="hiluxtn-col-superblanco.png" crc="480627487" seo="true" ref="index"/>
     <file name="prado-col-superblanco-txt.svg" crc="401403826" seo="true" ref="index"/>
     <file name="prado-col-superblanco-txt_poster_.png" crc="4073978313" ref="index"/>
+    <file name="legal2.svg" crc="3827672483" seo="true" ref="index"/>
+    <file name="legal2_poster_.png" crc="198265207" ref="index"/>
     <file name="hilux-tn-01.jpg" crc="245454246" seo="true" ref="index"/>
     <file name="hilux-tn-02.jpg" crc="362788960" seo="true" ref="index"/>
     <file name="hilux-tn-03.jpg" crc="68352665" seo="true" ref="index"/>
@@ -69,5 +73,5 @@
     <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
     <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="872694" seo="true" mt="1476980057090" redirect="true"/>
+  <file name="index.html" crc="4055844883" seo="true" mt="1478134180801" redirect="true"/>
 </manifest>

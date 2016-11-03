@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476983497516">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1478133805243">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="363130012" ref="index"/>
-    <file name="index.css" crc="390017405" ref="index"/>
+    <file name="index.css" crc="61752938" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -21,11 +21,13 @@
     <file name="runner-sr5-home.jpg" crc="439745244" seo="true" ref="index"/>
     <file name="runner-sr5.svg" crc="4047689606" seo="true" ref="index"/>
     <file name="runner-sr5_poster_.png" crc="359522551" ref="index"/>
-    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
-    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
+    <file name="botonbrilloespecif3.gif" crc="4080693175" ref="index"/>
+    <file name="botonbrillocolor3.gif" crc="227664084" ref="index"/>
     <file name="runner-sr5-col-rojo-home.png" crc="3806216065" seo="true" ref="index"/>
     <file name="runner-limit-txt.svg" crc="236127602" seo="true" ref="index"/>
     <file name="runner-limit-txt_poster_.png" crc="31150283" ref="index"/>
+    <file name="legal1.svg" crc="3773719722" seo="true" ref="index"/>
+    <file name="legal1_poster_.png" crc="91579411" ref="index"/>
     <file name="runner-sr5-colores.svg" crc="4264399205" seo="true" ref="index"/>
     <file name="runner-sr5-colores_poster_.png" crc="123933838" ref="index"/>
     <file name="runner-sr5-col-blanco.png" crc="4010872091" seo="true" ref="index"/>
@@ -52,6 +54,8 @@
     <file name="runner-sr5-col-verde.png" crc="390028238" seo="true" ref="index"/>
     <file name="runner-sr5-col-verde-txt.svg" crc="4214000661" seo="true" ref="index"/>
     <file name="runner-sr5-col-verde-txt_poster_.png" crc="3807417047" ref="index"/>
+    <file name="legal2.svg" crc="3827672483" seo="true" ref="index"/>
+    <file name="legal2_poster_.png" crc="198265207" ref="index"/>
     <file name="4runner-sr5-01.jpg" crc="161092808" seo="true" ref="index"/>
     <file name="4runner-sr5-02.jpg" crc="190289070" seo="true" ref="index"/>
     <file name="4runner-sr5-03.jpg" crc="73241500" seo="true" ref="index"/>
@@ -75,5 +79,5 @@
     <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
     <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3767135476" seo="true" mt="1476977429894" redirect="true"/>
+  <file name="index.html" crc="327794718" seo="true" mt="1478133782787" redirect="true"/>
 </manifest>

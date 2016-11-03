@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1476984042523">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.toyota.com.co" resolutions="1x" timestamp="1478134455137">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="363130012" ref="index"/>
-    <file name="index.css" crc="4204522856" ref="index"/>
+    <file name="index.css" crc="432191980" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -19,13 +19,15 @@
   </folder>
   <folder name="images">
     <file name="rav4-street.jpg" crc="3759223115" seo="true" ref="index"/>
-    <file name="botonbrillocolor2.gif" crc="3773473474" ref="index"/>
-    <file name="botonbrilloespecif2.gif" crc="4114993733" ref="index"/>
+    <file name="botonbrillocolor3.gif" crc="227664084" ref="index"/>
+    <file name="botonbrilloespecif3.gif" crc="4080693175" ref="index"/>
     <file name="rav4-col-rojo-home.png" crc="275111328" seo="true" ref="index"/>
     <file name="rav4-street-version.svg" crc="3777524861" seo="true" ref="index"/>
     <file name="rav4-street-version_poster_.png" crc="128861474" ref="index"/>
     <file name="rav4-street.svg" crc="68272019" seo="true" ref="index"/>
     <file name="rav4-street_poster_.png" crc="167057722" ref="index"/>
+    <file name="legal1.svg" crc="3773719722" seo="true" ref="index"/>
+    <file name="legal1_poster_.png" crc="91579411" ref="index"/>
     <file name="rav4-colores.svg" crc="4188458115" seo="true" ref="index"/>
     <file name="rav4-colores_poster_.png" crc="353426833" ref="index"/>
     <file name="rav4-col-negro.png" crc="282633099" seo="true" ref="index"/>
@@ -55,6 +57,8 @@
     <file name="rav4-col-bronce.png" crc="3868502320" seo="true" ref="index"/>
     <file name="prado-col-bronce-txt.svg" crc="23675230" seo="true" ref="index"/>
     <file name="prado-col-bronce-txt_poster_.png" crc="3815334585" ref="index"/>
+    <file name="legal2.svg" crc="3827672483" seo="true" ref="index"/>
+    <file name="legal2_poster_.png" crc="198265207" ref="index"/>
     <file name="rav4-street-01.jpg" crc="359445081" seo="true" ref="index"/>
     <file name="rav4-street-02.jpg" crc="328258217" seo="true" ref="index"/>
     <file name="rav4-street-03.jpg" crc="399001199" seo="true" ref="index"/>
@@ -78,5 +82,5 @@
     <file name="toyota logo_h_300dpi_cmyk_rev1.png" crc="449289765" seo="true" ref="index"/>
     <file name="toyota logo_v_master_300dpi_cmyk.png" crc="242523386" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4265984942" seo="true" mt="1476982749984" redirect="true"/>
+  <file name="index.html" crc="4059429520" seo="true" mt="1478134430720" redirect="true"/>
 </manifest>
